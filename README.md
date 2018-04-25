@@ -1,3 +1,3 @@
 # kakao_clone
 
-Hellow
+This is kakao talk cloning project

@@ -1,3 +1,3 @@
-# kakao_clone
+# html_cloning
 
-This is kakao talk cloning project
+Practicing html5/css3 cloning kakao interface
